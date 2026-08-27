@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Aline Mariano Rincon
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/en/problems/view/1080
+Data        : 27/08/2026
+Dificuldade : Entender a lógica da correção do sudoku. 
+Uso de IA   : Não usei.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
