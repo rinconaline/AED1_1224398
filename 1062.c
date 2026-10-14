@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algoritmo e Estrutura de Dados 2026S1
+Nome        : Aline Mariane Rincon
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1062
+Data        : 14/10/2026
+Objetivo    : Validar ordens de vagões usando uma pilha.
+Dificuldade : Controlar os fluxos de empilhar e desempilhar.
+Uso de IA   : Implementação do algoritmo com pilha e I/O.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
