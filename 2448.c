@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algoritmo e Estrutura de Dados 2026S1
+Nome        : Aline Mariane Rincon
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2448
+Data        : 14/10/2026
+Objetivo    : Calcular o tempo de entrega de encomendas com busca binária.
+Dificuldade : Achar os índices das casas rapidamente com busca binária.
+Uso de IA   : Estrutura da busca binaria.
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
