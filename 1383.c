@@ -1,4 +1,13 @@
-c
+/* --------------------------------------------------------------------------
+Disciplina  : Algoritmo e Estrutura de Dados 2026S1
+Nome        : Aline Mariane Rincon
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 14/10/2026
+Objetivo    : Validar se matrizes 9x9 formam solucoes validas de Sudoku.
+Dificuldade : Verificar a integridade de linhas, colunas e subgrades 3x3.
+Uso de IA   : Revisao do codigo.
+-------------------------------------------------------------------------- */
 
 #include <stdio.h>
 
